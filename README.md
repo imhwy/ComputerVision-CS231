@@ -38,4 +38,5 @@ python file_name.py
 ```
 
 ### Note
-Final project is in another repo.
+Change the asset (image, video,...) path before running code.
+If you looking for final project.
