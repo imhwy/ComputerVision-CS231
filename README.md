@@ -38,5 +38,5 @@ python file_name.py
 ```
 
 ### Note
-Change the asset (image, video,...) path before running code.
-If you looking for final project.
+* Change the asset (image, video,...) path before running code.
+* If you looking for final project.
