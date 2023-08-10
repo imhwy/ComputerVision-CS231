@@ -39,4 +39,4 @@ python file_name.py
 
 ### Note
 * Change the asset (image, video,...) path before running code.
-* If you looking for final project.
+* If you looking for final project, [Black and white colorization](https://github.com/imhwy/BlackandWhiteColorization).
